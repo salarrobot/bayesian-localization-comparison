@@ -1,0 +1,8 @@
+numpy>=1.24
+scipy>=1.10
+matplotlib>=3.6
+pillow>=9.0          # GIF export via matplotlib's PillowWriter
+
+# Optional: only required to run the original interactive keyboard demo
+# (histogram.py). Not needed for run_comparison.py.
+# pynput>=1.7
