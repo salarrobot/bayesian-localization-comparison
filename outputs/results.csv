@@ -1,0 +1,5 @@
+algorithm,pos_rmse_m,pos_mean_m,pos_max_m,head_rmse_deg,time_per_step_ms
+Histogram,0.4174,0.3737,0.9788,4.5599,2.7115
+EKF,0.0752,0.0658,0.4323,0.8358,0.1560
+UKF,0.1120,0.0994,0.3692,1.7959,0.2814
+Particle Filter,0.0981,0.0842,0.5568,1.3906,0.2267
